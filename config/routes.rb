@@ -14,5 +14,6 @@ Rails.application.routes.draw do
       :index, # GET : All articles
       :new ,  # GET : The new article creation form
       :create # POST : Create a new article 
+      
       ] 
 end
